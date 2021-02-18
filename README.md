@@ -25,4 +25,5 @@ Token
 ```
  Manual & Otomotis
 ```
-
+<a href="https://github.com/KURNIAW4TI/sks-pro"><img title="SKS-PRO" src="https://github-readme-stats.vercel.app/api/pin/?username=KURNIAW4TI&repo=SKS-PRO&theme=vision-friendly-dark"></a>
+<p align="center">
