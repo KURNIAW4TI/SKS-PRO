@@ -21,3 +21,8 @@ $ python2 crack.py
 Cookie
 Token
 ```
+- Metode Sandi
+```
+ Manual & Otomotis
+```
+
